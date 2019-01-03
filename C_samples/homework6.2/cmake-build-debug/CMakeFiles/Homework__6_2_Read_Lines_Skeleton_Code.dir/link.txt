@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Homework__6_2_Read_Lines_Skeleton_Code.dir/main.c.o CMakeFiles/Homework__6_2_Read_Lines_Skeleton_Code.dir/read_lines.c.o  -o Homework__6_2_Read_Lines_Skeleton_Code 

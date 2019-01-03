@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/miramastoras/ECS_30/homework6.2/main.c
+stdio.h
+-
+stdlib.h
+-
+read_lines.h
+/Users/miramastoras/ECS_30/homework6.2/read_lines.h
+
+/Users/miramastoras/ECS_30/homework6.2/read_lines.c
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdbool.h
+-
+read_lines.h
+/Users/miramastoras/ECS_30/homework6.2/read_lines.h
+
+/Users/miramastoras/ECS_30/homework6.2/read_lines.h
+stdio.h
+-
+

@@ -1,0 +1,4 @@
+Hello Class
+This is what I would call a normal file
+It isn't very special
+But it still is important
