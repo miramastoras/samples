@@ -4,6 +4,10 @@ Samples of past programs
 
 python_samples: 
 
+
+run all the following programs via python3 prog_name.py
+
+
   prog2.py --> computes a subjects body mass index
   
   prog67.py --> simulates Conway's "Game of life"
@@ -23,7 +27,11 @@ python_samples:
         
     - program asks for the number of generations you want the cells to grow, and prints the results of all the generations
     
-    - program asks user if they want to save the output of the last generation 
+    
+    - output will show where the cells are alive based on the previous generations ( * represents live cells ) 
+    
+    
+    -program asks user if they want to save the output of the last generation 
     
   prog4.py 
   
