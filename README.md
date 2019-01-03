@@ -28,3 +28,7 @@ python_samples:
   prog4.py 
   
     - Program converts a user inputted string to Morse code 
+    
+  create_snapshot.py
+  
+    - Create_snapshot.py --> takes a snapshot of the amazon resource database everyday and deletes the snapshot from 8 days ago.
