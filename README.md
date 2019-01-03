@@ -31,4 +31,4 @@ python_samples:
     
   create_snapshot.py
   
-    - Create_snapshot.py --> takes a snapshot of the amazon resource database everyday and deletes the snapshot from 8 days ago.
+    - Create_snapshot.py --> takes a snapshot of the amazon resource EC2 instance everyday and deletes the snapshot from 8 days ago.
