@@ -17,3 +17,6 @@ python_samples:
   prog4.py 
     - Program converts a user inputted string to Morse code 
   
+  C_ samples: 
+    - Homework_3.2: gives investment advice 
+  
