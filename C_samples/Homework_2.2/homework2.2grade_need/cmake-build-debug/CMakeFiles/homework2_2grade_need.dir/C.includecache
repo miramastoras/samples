@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/miramastoras/ECS_30/homework2.2grade_need/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

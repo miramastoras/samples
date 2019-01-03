@@ -1,0 +1,3 @@
+/Users/miramastoras/ECS_30/homework2.2grade_need/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miramastoras/ECS_30/homework2.2grade_need/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miramastoras/ECS_30/homework2.2grade_need/cmake-build-debug/CMakeFiles/homework2_2grade_need.dir
