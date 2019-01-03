@@ -13,4 +13,7 @@ python_samples:
         - Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.      
     - program asks for the number of generations you want the cells to grow, and prints the results of all the generations
     - program asks user if they want to save the output of the last generation
+    
+  prog4.py 
+    - Program converts a user inputted string to Morse code 
   
